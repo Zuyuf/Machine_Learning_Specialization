@@ -15,13 +15,14 @@ Machine Learning Repository where I post my work which I have done while learnin
 
 
 
-## Machine Learning Foundation [link](https://www.coursera.org/programs/anjuman-institute-of-technology-and-management-on-coursera-7alzi?collectionId=&productId=zh7400XtEeWUww73KBYvPw&productType=s12n&showMiniModal=true)
+
+## Couse 1: Machine Learning Foundation [link](https://www.coursera.org/programs/anjuman-institute-of-technology-and-management-on-coursera-7alzi?collectionId=&productId=zh7400XtEeWUww73KBYvPw&productType=s12n&showMiniModal=true)
 
 
-## Machine Learning Regression [link](https://www.coursera.org/programs/anjuman-institute-of-technology-and-management-on-coursera-7alzi?collectionId=&productId=zh7400XtEeWUww73KBYvPw&productType=s12n&showMiniModal=true)
+## Couse 2: Machine Learning Regression [link](https://www.coursera.org/programs/anjuman-institute-of-technology-and-management-on-coursera-7alzi?collectionId=&productId=zh7400XtEeWUww73KBYvPw&productType=s12n&showMiniModal=true)
 
 
-## Machine Learning Classification [link](https://www.coursera.org/programs/anjuman-institute-of-technology-and-management-on-coursera-7alzi?collectionId=&productId=zh7400XtEeWUww73KBYvPw&productType=s12n&showMiniModal=true)
+## Couse 3: Machine Learning Classification [link](https://www.coursera.org/programs/anjuman-institute-of-technology-and-management-on-coursera-7alzi?collectionId=&productId=zh7400XtEeWUww73KBYvPw&productType=s12n&showMiniModal=true)
 
 
-## Machine Learning Clustering & Retrieval [link](https://www.coursera.org/programs/anjuman-institute-of-technology-and-management-on-coursera-7alzi?collectionId=&productId=zh7400XtEeWUww73KBYvPw&productType=s12n&showMiniModal=true)
+## Couse 4: Machine Learning Clustering & Retrieval [link](https://www.coursera.org/programs/anjuman-institute-of-technology-and-management-on-coursera-7alzi?collectionId=&productId=zh7400XtEeWUww73KBYvPw&productType=s12n&showMiniModal=true)
