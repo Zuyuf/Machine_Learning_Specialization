@@ -6,6 +6,7 @@ Machine Learning Repository where I post my work which I have done while learnin
 > - [Jupyter Notebook](http://jupyter.org/install)
 > - [Turi Create](https://github.com/apple/turicreate#installation)
 > - [To Install Turi Create on Windows](https://blog.usejournal.com/installing-turicreate-on-windows-10-534e147a4792)
+>   - Turi Create doesn't support Windows so can't directly use it on Windows, Either use Linux Virtual Machine or Follow the above link
 
 
 ## Machine Learning Foundation [link](https://www.coursera.org/programs/anjuman-institute-of-technology-and-management-on-coursera-7alzi?collectionId=&productId=zh7400XtEeWUww73KBYvPw&productType=s12n&showMiniModal=true)
