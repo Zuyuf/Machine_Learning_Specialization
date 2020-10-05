@@ -1,1 +1,9 @@
-# COMING SOON !!!
+### [home_data.sframe](https://d3c33hcgiwev3.cloudfront.net/00FsKOIoEemELQpo9cj5Ig_579152614f2b4a399ac90a939360749e_home_data.sframe.zip?Expires=1602028800&Signature=Jb-hy1jm6f5lrlKyOS0lWHZaYt5qVWZ3D3hbBIJv7I24dqdFGWNxvgN9LAjGMsnTk5iDEnweO-n-2SJJwg6R3sfUwKVMMNzx3TXPCPH~oyA-dB-8HCPL9bShMTpPSSfCdSmXY~5dU5gAzk7YUSuLVJ2b1j8tkiZTSKv0LyVwoX4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+### [home_data.csv](https://d3c33hcgiwev3.cloudfront.net/_46994807796a1213d2699c6d9a09667c_kc_house_data.csv.zip?Expires=1602028800&Signature=T-6aB1m2~q0NWZXOGKZTvJK2KMha3TN-HQrZmTZ6lMoJLxgofzsc1bob7VYDmBzBjPX9GowTyx4-Riupcs0bMW5umN1G8OrRqup9zvj1F44hSWB7g0JCTrqI9eMhtuH8dw~v3XKPji1nTjxu7X6nnlPnrW~mGsI32TVPlVSVmJY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+### [home_data_train.csv](https://d3c33hcgiwev3.cloudfront.net/_46994807796a1213d2699c6d9a09667c_kc_house_train_data.csv.zip?Expires=1602028800&Signature=VKIFCkVXBZUJwH~T1ND35fI-F0vaUXaaH2aro78dGuMTZiquuXdwn8NzL-sXiX~e7-CQGKVfwVz0DTo9w~TRNkqVH7XornnXiGF4YcncE8i-mth2fbwxBRknJ9shfQjEBAlBu0sPL44kwUpQOFsWtZgFdaxHPxwAe7r0T42B0I0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+### [home_data_test.csv](https://d3c33hcgiwev3.cloudfront.net/_46994807796a1213d2699c6d9a09667c_kc_house_test_data.csv.zip?Expires=1602028800&Signature=USHg3PCfLwYDTZu1764XAE1sMNSZwX8EMtHqFn7yhbJT3UPIPtJmBkA0fslHHhFdNzxL-mdfAuLdW5Mg~MKqCRj4WvtOGBVIdmjvzVCYg0guqye5O2xZozENdp7n-U5yAwNZLvoSWuUD~G2hpL-duKeAPbHsJHJAoKZsPSc4VKQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+
+### [Starter-code-Assignment 1](https://d3c33hcgiwev3.cloudfront.net/qzJWO-IpEemx8A5HK6Ls8g_e3ace897972f4d0e870c765241ca0804_REG02-NB01.ipynb.zip?Expires=1602028800&Signature=AX1ULrlRc4QlxAZSw1oGh3fxHWO6BFtLpgi4AFT7YXqyir68BPQ1xQlON1uJlgB-fwjLZCAmUJhgni-hI6DMxwALNkWYMETZVY7dGIheKSJy4ByAcB-MNmXiT9Vpg7luNdCKP60jpjvvYMXbnHunnj6tt5PdirzEdI9xzbI6AEI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
